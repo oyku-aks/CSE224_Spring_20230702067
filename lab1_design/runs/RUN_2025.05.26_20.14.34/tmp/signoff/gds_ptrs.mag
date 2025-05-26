@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 10000 10000
+string GDS_END 190760
+string GDS_FILE /openlane/designs/lab1_design/runs/RUN_2025.05.26_20.14.34/results/signoff/lab1.magic.gds
+string GDS_START 91000
+<< end >>
